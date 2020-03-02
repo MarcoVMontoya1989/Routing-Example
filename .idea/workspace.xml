@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0c6482e-e9f4-4568-9edf-3f78d6d11590" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YPoqDIDtdgL41Ga9AzDouFkw6h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Burger React - Backup" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mark V\WebstormProjects\Routing Example\src\containers\Blog" />
+      <recent name="C:\Users\Mark V\WebstormProjects\Routing Example\src\containers" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0c6482e-e9f4-4568-9edf-3f78d6d11590" name="Default Changelist" comment="" />
+      <created>1582853779328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582853779328</updated>
+      <workItem from="1582853783033" duration="7685000" />
+      <workItem from="1582915744127" duration="15617000" />
+      <workItem from="1583155903498" duration="3630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="267" key="FileChooserDialogImpl" timestamp="1582937129864">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1060" y="267" key="FileChooserDialogImpl/2560.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1582937129864" />
+    <state x="784" y="102" width="1096" height="783" key="find.popup" timestamp="1582937073628">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="784" y="102" width="1096" height="783" key="find.popup/2560.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1582937073628" />
+    <state x="943" y="227" key="search.everywhere.popup" timestamp="1582863534754">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="943" y="227" key="search.everywhere.popup/2560.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1582863534754" />
+  </component>
+</project>
